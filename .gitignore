@@ -1,0 +1,17 @@
+/classes/
+/target/
+/bin/
+.classpath
+.settings/
+.idea/
+*.iml
+*.project
+*.settings
+*.classpath
+*target
+*.swp
+*.bak
+*.log
+*.zip
+*.tar
+*gz
